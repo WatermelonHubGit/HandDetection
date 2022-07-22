@@ -1,2 +1,4 @@
-# HandDetection
-Game control with Hand
+
+# Install
+
+Execute command "pip install opencv-python pyautogui "
